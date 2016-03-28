@@ -1,0 +1,57 @@
+h3.sidebar_categ_byid{
+font: 600 18px/22px "Open Sans", sans-serif;
+color: #555454;
+background: #f6f6f6;
+border-top: 5px solid #333333;
+text-transform: uppercase;
+padding: 14px 5px 17px 20px;
+margin-bottom: 20px;
+}
+h3.sidebar_categ_byid a{
+color: #555454;
+}
+.sidebarproduc li {
+padding: 0 0 20px 0;
+margin-bottom: 20px;
+border-bottom: 1px solid #d6d4d4;
+}
+.product_img_link_sidecat{
+float: left;
+border: 1px solid #d6d4d4;
+margin-right: 19px;
+}
+a.sidecateg-product-name{
+font-size: 15px;
+line-height: 21px;
+color: #3a3939;
+margin-bottom: 0;
+}
+.price.product-price-sidehom{
+font: 600 16px/21px "Open Sans", sans-serif;
+color: #333333;
+}
+.content_price_sidecat{
+margin-bottom: 8px;
+}
+.button.lnk_view span.sidecateg {
+border: 1px solid;
+border-color: white;
+padding: 4px 5px;
+display: block;
+background: #f7f7f7;
+background: -moz-linear-gradient(top, #f7f7f7 0%, #ededed 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f7f7f7), color-stop(100%, #ededed));
+background: -webkit-linear-gradient(top, #f7f7f7 0%, #ededed 100%);
+background: -o-linear-gradient(top, #f7f7f7 0%, #ededed 100%);
+background: -ms-linear-gradient(top, #f7f7f7 0%, #ededed 100%);
+background: linear-gradient(to bottom, #f7f7f7 0%, #ededed 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7f7f7', endColorstr='#ededed',GradientType=0);
+}
+#siderbarhomecategory li span.discount{
+background: #f13340;
+border: 1px solid #d02a2c;
+font: 700 14px/17px Arial, Helvetica, sans-serif;
+padding: 1px 6px;
+color: white;
+display: inline-block;
+}

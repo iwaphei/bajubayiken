@@ -1,0 +1,10 @@
+*ERROR* 	2016/03/28 - 10:35:17: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0)
+		AND cl.id_lang = 2
+		AND cg.`id_group` IN (1)' at line 5<br /><br /><pre>SELECT * FROM wm_category c
+		LEFT JOIN wm_category_lang cl ON (c.`id_category` = cl.`id_category`)
+		LEFT JOIN wm_category_group cg ON (cg.`id_category` = c.`id_category`)
+		LEFT JOIN wm_category_shop cs ON (cs.`id_category` = c.`id_category` AND cs.`id_shop` = 1)
+		WHERE c.active = 1  AND c.`id_category` IN (,0)
+		AND cl.id_lang = 2
+		AND cg.`id_group` IN (1)
+		</pre> at line 791 in file classes/db/Db.php
