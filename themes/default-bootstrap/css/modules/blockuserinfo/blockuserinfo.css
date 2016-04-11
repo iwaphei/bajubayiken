@@ -1,10 +1,13 @@
 .header_user_info {
   float: right;
-  border-left: 1px solid #515151;
-  border-right: 1px solid #515151; }
+  /*border-left: 1px solid #515151;
+  border-right: 1px solid #515151;*/
+  position: absolute;
+  padding: 97px 0px 0 930px; }
   .header_user_info a {
-    color: #fff;
+    color: #777;
     font-weight: bold;
+
     display: block;
     padding: 8px 9px 11px 8px;
     cursor: pointer;

@@ -1,7 +1,8 @@
 #languages-block-top {
   float: right;
-  border-left: 1px solid #515151;
-  position: relative; }
+  /*border-left: 1px solid #515151;*/
+  padding: 105px 0px 0 830px;
+  position: absolute; }
   @media (max-width: 479px) {
     #languages-block-top {
       width: 25%; } }
@@ -9,10 +10,11 @@
     display: none; }
   #languages-block-top div.current {
     font-weight: bold;
-    padding: 8px 10px 10px 10px;
+   /* position: absolute;*/
+    padding: 10px 10px 10px %0px;
     line-height: 18px;
-    color: #fff;
-    text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+    color: #616161;
+    /*text-shadow: 1px 1px rgba(0, 0, 0, 0.2);*/
     cursor: pointer; }
     @media (max-width: 479px) {
       #languages-block-top div.current {

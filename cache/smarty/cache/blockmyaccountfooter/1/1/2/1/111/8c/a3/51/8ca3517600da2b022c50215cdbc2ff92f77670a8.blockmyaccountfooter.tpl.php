@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '573656ea29471262d2-94365825',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56f8aa177a2842_76875387',
+  'unifunc' => 'content_570b4dc2e698a2_80144981',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56f8aa177a2842_76875387')) {function content_56f8aa177a2842_76875387($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_570b4dc2e698a2_80144981')) {function content_570b4dc2e698a2_80144981($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://localhost/bajubayiken/id/akun-saya" title="Atur akun pelanggan" rel="nofollow">Akun saya</a></h4>

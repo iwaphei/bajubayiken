@@ -61,14 +61,14 @@
   .sf-menu > li > a {
     font: 800 16px/22px "Open Sans", sans-serif;
     text-align: center;
-    margin-left: 10px;
+    margin-left: 15px;
     /*width: 220px;*/
-    border-radius: 25px;
+    /*border-radius: 5px;*/
     text-transform: uppercase;
     color: #484848;
     background: #dceefe;
     display: block;
-    padding: 17px 20px;
+    padding: 17px 30px;
     /*border-bottom: 3px solid #e9e9e9; }*/}
   .sf-menu > li.sfHover > a,
   .sf-menu > li > a:hover, .sf-menu > li.sfHoverForce > a {

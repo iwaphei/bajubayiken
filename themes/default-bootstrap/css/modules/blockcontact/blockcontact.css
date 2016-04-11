@@ -1,7 +1,8 @@
 .shop-phone {
   float: left;
-  padding: 5px 0 10px;
-  line-height: 18px; }
+  padding: 100px 0px 10px 260px;
+  line-height: 18px; 
+  position: absolute;}
   @media (max-width: 767px) {
     .shop-phone {
       display: none; } }
@@ -11,23 +12,26 @@
     color: #fff;
     padding-right: 7px; }
   .shop-phone strong {
-    color: #fff; }
+    color: #000; }
   @media (max-width: 991px) {
     .shop-phone.is_logged {
       display: none; } }
 
 #contact-link {
   float: right;
-  border-left: 1px solid #515151; }
+  /*border-left: 1px solid #515151;*/
+  padding: 95px 0px 0 700px;
+  position: absolute; }
   @media (max-width: 479px) {
     #contact-link {
       text-align: center; } }
   #contact-link a {
     display: block;
-    color: #fff;
+  /*  position: absolute;*/
+    color: #616161;
     font-weight: bold;
-    padding: 8px 10px 11px 10px;
-    text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+    padding: 10px 10px 11px 10px;
+    /*text-shadow: 1px 1px rgba(0, 0, 0, 0.2);*/
     cursor: pointer;
     line-height: 18px; }
     @media (max-width: 479px) {

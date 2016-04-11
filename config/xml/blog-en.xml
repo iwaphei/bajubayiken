@@ -13,12 +13,188 @@
 	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.prestashop.com/blog/en</link>
 	<description></description>
-	<lastBuildDate>Thu, 24 Mar 2016 08:24:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Apr 2016 13:00:57 +0000</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.8.1</generator>
 	<item>
+		<title>One million community members: the strength of Open Source</title>
+		<link>https://www.prestashop.com/blog/en/one-million-community-members-strength-open-source/</link>
+		<comments>https://www.prestashop.com/blog/en/one-million-community-members-strength-open-source/#comments</comments>
+		<pubDate>Tue, 05 Apr 2016 13:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Xavier Borderie]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21392</guid>
+		<description><![CDATA[<p>The PrestaShop community has reached a huge milestone: we just welcomed our 1,000,000th member! This achievement has been years in the making, as we patiently built a community of contributors and users around the globe&#8211;and around a passion for ecommerce. PrestaShop has been an open source project from the get-go, and the decision to keep [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/one-million-community-members-strength-open-source/">One million community members: the strength of Open Source</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The PrestaShop community has reached a huge milestone: we just welcomed our 1,000,000th member! This achievement has been years in the making, as we patiently built a community of contributors and users around the globe&#8211;and around a passion for ecommerce.</p>
+<p><span id="more-21392"></span></p>
+<p>PrestaShop has been an open source project from the get-go, and the decision to keep it that way gives our community members some incredible advantages, as well as giving them the opportunity to tangibly contribute to PrestaShop’s future success.</p>
+<h2><span style="color: #48b2ca">Flexibility and adaptability</span></h2>
+<p>There’s a saying in the world of open source: <a href="https://en.wikipedia.org/wiki/Gratis_versus_libre" target="_blank">free as in speech and not as in beer</a>. It means that, more importantly than being <strong>free of charge</strong>, open source software like PrestaShop gives users the <strong>freedom</strong> to analyze its source code and modify it to meet their own needs. Anyone can take the code and make it work for them, often with little or no need for technical knowledge. Open source software also benefits from <strong>open testing</strong>: since the code is <a href="https://github.com/PrestaShop/PrestaShop" target="_blank">developed in the open</a>, anyone with technical knowledge is able to verify how it works, and comment on the path it takes.</p>
+<h2><span style="color: #48b2ca">Features and support</span></h2>
+<p>Being open source also means being open to requests from our community, which we’ve taken into account over the years to develop <strong>more than 600 features</strong>. PrestaShop is likely one of most feature-packed ecommerce softwares out there, and can adapt to any shopping format. And the community does more than share ideas for improvement: <strong>they help each other out!</strong> We’ve seen first-hand how much our community members love sharing their experience, advice, and suggestions with fellow online merchants.</p>
+<h2><span style="color: #48b2ca">So many ways to contribute!</span></h2>
+<p>Another great thing about open source is that it lets community members contribute to the software according to their own unique abilities. Are you a diehard developer? Have an eye for design detail? Speak four languages fluently? Whatever your talent is, there’s a place for it in the community. Here are few ways our members get involved:</p>
+<ul style="padding-left: 30px">
+<li><strong>Test.</strong> Have you spotted a bug in PrestaShop or one of its native modules? Are you able to explain it and <a href="http://doc.prestashop.com/display/PS16/How+to+use+the+Forge+to+contribute+to+PrestaShop" target="_blank">reproduce it every single time</a>? Then you’re ready to <a href="http://forge.prestashop.com/" target="_blank">create a ticket on the Forge</a>, which the Core developer will use to fix the bug so it doesn’t appear in the next version.</li>
+<li><strong>Improve code.</strong> Do you know how to fix an issue that you found yourself or read about in the Forge? Then the next step is for you to submit your fix to the Core developers who will integrate it into the next version. <a href="http://doc.prestashop.com/display/PS16/Contributing+code+to+PrestaShop" target="_blank">Knowledge of Git or GitHub</a> is necessary, but should you succeed, you&#8217;ll gain the admiration of other PS contributors.</li>
+<li><strong>Translate.</strong> We strive to make PrestaShop available in as many languages as possible, but we really only master English and French. So we rely on the community to translate the software, or to fix translation errors. Are you up to the challenge? Then create your account on the <a href="https://crowdin.com/project/prestashop-official" target="_blank">PrestaShop project on Crowdin</a>, and have at it!</li>
+<li><strong>Document.</strong> You might not know it, but <a href="http://doc.prestashop.com/" target="_blank">PrestaShop’s documentation</a> is hosted on a wiki, which means anyone with an account can <a href="http://doc.prestashop.com/display/PS16/Contributing+to+the+documentation" target="_blank">help write or update it</a>. So if the User Guide isn’t available in your language yet, you can help us translate it&#8211;or any of the other guides.</li>
+<li><strong>Contribute modules.</strong> Did you notice something that could be added to PrestaShop? Maybe you have an idea for a great feature or know how to improve an existing feature? If so, you can <a href="http://doc.prestashop.com/display/PS16/Developer+Guide" target="_blank">create a module</a> and <a href="http://addons.prestashop.com/en/content/25-how-to-sell-on-prestashop-addons" target="_blank">sell it on the PrestaShop Addons marketplace</a>.</li>
+<li><strong>Contribute themes.</strong> The default design for PrestaShop goes with anything, but you might have an idea that would work better for a specific market. <a href="http://doc.prestashop.com/display/PS16/Designer+Guide" target="_blank">Create your theme</a> and <a href="http://addons.prestashop.com/en/content/25-how-to-sell-on-prestashop-addons" target="_blank">sell it on the PrestaShop Addons marketplace</a>.</li>
+</ul>
+<h2><span style="color: #48b2ca">Spread the word</span></h2>
+<p>Our community grew by word-of-mouth: people sharing with others how PrestaShop helped them start their own business, and sometimes even change their lives in very real ways. Promoting PrestaShop is another way to support the community, be it on the PS forums, on your blog, or even out &#8220;in the real world,&#8221; <a href="http://www.meetup.com/topics/prestashop/" target="_blank">at any of the numerous meetups regularly organized by local communities</a>.<br />
+Thank you to everyone who has helped shaped the ongoing success of PrestaShop. We couldn’t have done it without you&#8211;and we wouldn’t want to!</p>
+<p>Onto the next million!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/one-million-community-members-strength-open-source/">One million community members: the strength of Open Source</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/one-million-community-members-strength-open-source/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Save The Date for PrestaShop Days !</title>
+		<link>https://www.prestashop.com/blog/en/save-date-prestashop-days/</link>
+		<comments>https://www.prestashop.com/blog/en/save-date-prestashop-days/#comments</comments>
+		<pubDate>Tue, 05 Apr 2016 09:37:03 +0000</pubDate>
+		<dc:creator><![CDATA[Sandra Fernandes]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21271</guid>
+		<description><![CDATA[<p>Calling all Ecommerce professionals, fans and followers&#8230; Save the date for the 2016 PrestaShop Days! Thanks to all of you, the 2015 edition of PrestaShop Day was a huge success in Paris. More than 2,000 community members joined us in central Paris for this &#8216;WeCommerce&#8217; experience. Our goal is to make this year&#8217;s event truly inspirational [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/save-date-prestashop-days/">Save The Date for PrestaShop Days !</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Calling all Ecommerce professionals, fans and followers&#8230; Save the date for the 2016 PrestaShop Days! Thanks to all of you, the <a href="https://www.prestashop.com/blog/en/prestashopday-recapping-amazing-event/">2015 edition of PrestaShop Day</a> was a huge success in Paris. More than 2,000 community members joined us in central Paris for this &#8216;WeCommerce&#8217; experience. Our goal is to make this year&#8217;s event truly inspirational and impactful for your company or ecommerce project.</p>
+<p>Did you notice the (s) in PrestaShop Days? That&#8217;s not a typo. Ecommerce has no borders, and neither does PrestaShop. For the first time, we will host events in three European locations. It&#8217;s a wonderful opportunity to meet and exchange in a location near you!</p>
+<p>E-commerce knows no borders, and neither does PrestaShop! As well as giving you the chance to check out the best moments online, this year, PrestaShop Day will be making its way around three European cities.</p>
+<p><strong>2016 Event Schedule </strong></p>
+<ul>
+<li><strong>PrestaShop Day Madrid</strong>: <a href="http://meeu.es/espacios-meeu/plano" target="_blank">Meeu</a>, May 12 from 9.00 a.m. to 5.00 p.m.;</li>
+<li><strong>PrestaShop Day Paris: </strong><a href="http://www.carreaudutemple.eu/" target="_blank">Carreau du Temple</a>, June 2 from 9.00 a.m. to 7.00 p.m.;</li>
+<li><strong>PrestaShop Day Milan</strong>: <a href="http://milano-calabiana.talentgarden.org/#gallery" target="_blank">TAG &#8211; Talent Garden Milano Calabiana</a>, September 29, 2016 from 9.00 a.m. to 6.00 p.m.;</li>
+</ul>
+<p><span id="more-21271"></span></p>
+<p>PrestaShop Day is an exceptional event that brings together visionary leaders in ecommerce, the web and open source. You will have an opportunity to be inspired by success stories, participate in workshops, test your development skills, and win a number of prizes. Whether you&#8217;re new, or a returning attendee, this unique conference will help you to achieve a new level of ecommerce success.</p>
+<p><strong>For Merchants</strong></p>
+<p>Learn from the entrepreneurs who took their ecommerce business from zero to millions. Receive a free store audit. Learn how to improve store performance in the workshops. Discover new ecommerce solutions and services.</p>
+<p><strong>For Web Agencies</strong></p>
+<p>Understand how to build and deliver amazing ecommerce solutions for your customers. Meet expert designers and developers who are creating new templates and modules every day. Network with merchants who have new projects.</p>
+<p><strong>For Developers</strong></p>
+<p>Learn how to build new stores, modules, templates and themes with PrestaShop. Exchange with other web designers and developers. Network with merchants and web agencies.</p>
+<p><strong>For Everyone</strong></p>
+<p>Discover the latest news and innovations n the ecommerce industry. Learn about new product features developed by PrestaShop. Meet and exchnage ideas with the PrestaShop team. Enjoy a day filled with education and events.</p>
+<p><span style="line-height: 1.5">Early bird tickets are currently available on the <a href="http://www.prestashopday.com/">PrestaShop Day</a> Paris website and the next ticket campaign for Madrid will happen pretty soon!</span></p>
+<p><span style="line-height: 1.5">Need information urgently? Interested in being a Speaker or a Sponsor? You&#8217;re welcome to contact us at </span><a style="line-height: 1.5" href="mailto:prestashopday@prestashop.com">prestashopday@prestashop.com</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/save-date-prestashop-days/">Save The Date for PrestaShop Days !</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/save-date-prestashop-days/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 steps to a successful email campaign</title>
+		<link>https://www.prestashop.com/blog/en/5-steps-successful-email-campaign/</link>
+		<comments>https://www.prestashop.com/blog/en/5-steps-successful-email-campaign/#comments</comments>
+		<pubDate>Tue, 05 Apr 2016 08:50:56 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21402</guid>
+		<description><![CDATA[<p>Did you know that 61% of consumers like to receive weekly promotional emails? If you thought email was old news, think again. 89% of marketers still rely on email to generate business. As a merchant, you can put this simple, inexpensive technique to work for your business to generate leads, drive conversions, and build customer [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-steps-successful-email-campaign/">5 steps to a successful email campaign</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Did you know that 61% of consumers like to receive weekly promotional emails?<br />
+If you thought email was old news, think again. 89% of marketers still rely on email to generate business. As a merchant, you can put this simple, inexpensive technique to work for your business to generate leads, drive conversions, and build customer loyalty. How? In today’s videos, the email marketing experts at SendinBlue, break down a great email campaign into these five key steps:</p>
+<p><span id="more-21402"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<ul style="padding-left: 30px">
+<li>Optimize the collection phase to create a quality subscriber database,</li>
+<li>Plan and create relevant content ,</li>
+<li>Develop a dedicated landing page,</li>
+<li>Analyze results,</li>
+<li>Choose the right tool.</li>
+</ul>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/EeiQQPqNKYA?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop/featured?utm_source=blog&amp;utm_medium=cta&amp;utm_campaign=Youtube-launch&amp;utm_content=sendinblue" target="_blank"><i class="fa fa-youtube-play"></i> Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-steps-successful-email-campaign/">5 steps to a successful email campaign</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/5-steps-successful-email-campaign/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Galaxy Kayaks: Using PrestaShop to deliver fishing kayaks across Europe</title>
+		<link>https://www.prestashop.com/blog/en/galaxy-kayaks-using-prestashop-deliver-fishing-kayaks-across-europe/</link>
+		<comments>https://www.prestashop.com/blog/en/galaxy-kayaks-using-prestashop-deliver-fishing-kayaks-across-europe/#comments</comments>
+		<pubDate>Wed, 30 Mar 2016 09:30:54 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Success Stories]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21385</guid>
+		<description><![CDATA[<p>Kayak fishing is a rapidly growing subcategory of one of the most popular hobbies in Europe, fishing. This traditional pastime is not only a source of food, but also a very popular sport. In the UK, there are more active fishing licences than participants in Sunday league Soccer! In Spain, over a million people have [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/galaxy-kayaks-using-prestashop-deliver-fishing-kayaks-across-europe/">Galaxy Kayaks: Using PrestaShop to deliver fishing kayaks across Europe</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Kayak fishing is a rapidly growing subcategory of one of the most popular hobbies in Europe, fishing. This traditional pastime is not only a source of food, but also a very popular sport. In the UK, there are more active fishing licences than participants in Sunday league Soccer! In Spain, over a million people have a licence to fish. Within the sport of fishing, kayak fishing is one of the fastest growing categories in many countries. This is where the story of <a href="http://www.es.galaxykayaks.eu/en/" target="_blank">Galaxy Kayaks</a> begins.<br />
+<span id="more-21385"></span></p>
+<h2 style="color: #2c347f">The beginning of a new online shop</h2>
+<p>In 2012, Stephen Sweeney was searching for a life change. That search led him to a chance encounter with a friend and the owner of <a href="http://www.es.galaxykayaks.eu/en/" target="_blank">Galaxy Kayaks</a> (a UK company started in 2007) that inspired him to launch Galaxy Kayaks in Spain. Together they would eventually join to form Galaxy Kayaks EU.</p>
+<p>Galaxy Kayaks was launched when kayak fishing was just becoming a popular sport. However, it was evident that many of the fishing kayaks on the market either didn&#8217;t offer a good standard of quality or were expensive. Traditionally, kayaks were sold through speciality retail outlets, which meant middlemen and high mark-ups: the average kayak priced over €1000. There was clearly a gap in the market for affordable fishing kayaks that could be sold directly to the consumer.</p>
+<p>Putting the pieces together, Stephen found the perfect solution: create an online business and website sells a specialized brand of quality <a href="http://www.es.galaxykayaks.eu/en/6-fishing-kayaks" target="_blank">fishing kayaks</a> sold at affordable prices through a PrestaShop based website that evolved into <a href="http://www.es.galaxykayaks.eu/en/" target="_blank">www.galaxykayaks.eu</a>.</p>
+<p>Galaxy Kayaks aimed to break this tradition by manufacturing, importing and selling quality kayaks that could be purchased for under €500 and delivered straight to a customer&#8217;s door. With this goal, Stephen had a vision to expand the brand throughout Europe and spearhead it to the top of the EU market. Stephen shares, “The idea came from my passion for the outdoors, for fishing, and my desire to find a business that would fit in with my lifestyle.”</p>
+<h2 style="color: #2c347f">Breaking down cultural barriers in ecommerce</h2>
+<p>Launching a fully international business is no easy feat. The number one priority was to establish a solid website from which to sell the products. We selected a model that designates a subdomain to each country, thus enabling the company to work in small flexible teams controlling their own online shops, whilst gaining the benefits of SEO by sharing a domain.</p>
+<p>“I have been fortunate enough to have always run my own businesses; the most recent being within the restaurant industry where I ran a portfolio of fifteen restaurants. From my experience with franchising, I saw an opportunity in the kayak market to operate a similar style business model internationally (online).” Says Stephen.</p>
+<p>A major step, finding a ecommerce platform that supported the model. The main aim was to appoint a platform that could offer a lot of flexibility and yet at the same time would not incur a huge amount of initial investment. The PrestaShop community was also a big attraction because it showcased the platform’s adaptability. Plus, there were countless modules available, enabling our company to design a platform with capabilities specific to our business. After much analysis and research, PrestaShop was selected for Galaxy Kayaks EU.</p>
+<p>The international model is carried throughout the business, including their diverse marketing strategies. Strategies differ greatly due to cultural differences and society, therefore promotions vary across Europe. In Spain, for example, Galaxy Kayaks EU generates more sales for ´Three Kings´´ holiday (the 6th of January) than for Christmas. Aside from promotions, giving each country each country’s team full control over their own markets makes product and stock management easy. There are also many obvious language and cultural barriers automatically tacked by this model.</p>
+<h2 style="color: #2c347f">Engaging with the community</h2>
+<p>A key reason for the growth seen by Galaxy Kayaks EU in the market is not only the quality of the products but also proximity to the market both on and offline. Working in smaller teams that focuses on each national market allowed them to develop closer client relationships. The rise in social media makes this easier but the biggest drive has been the ability to engage with clients through the use of content.</p>
+<p>Fishermen love to photograph and take videos of their catches. They are also incredibly passionate about what they do and this lends itself to a community that loves to share and discuss content. Each country has their own preference to social media outlets. We found that in France they focus on dedicated forums, and in Spain it’s mainly on Facebook.</p>
+<p>From a business perspective, by using the <a href="http://addons.prestashop.com/en/blog-forum-new/4731-professional-blog.html" target="_blank">Blog available on Prestashop</a>, large amounts of traffic can be driven to the website by writing about specific topics and sharing them through our social media channels. These articles, if well written and related to active promotions, can be an excellent tool for generating sales.</p>
+<p>Not to mention, some clients truly immerse themselves into the business itself. Client feedback from expert kayak fishermen assists our experts in the development of future models of Galaxy Kayaks EU. By being very approachable and directly asking clients for their feedback, we’ve created a passionate and committed client base.</p>
+<p>We’ve also nurtured closer ties to the kayak fishing community by having a physical presence offline by becoming official sponsors of major local and national events, such as the Spanish national kayak fishing championships. This helps to put faces to names and build strong and binding relationships, bridging gaps experienced by companies solely based in the digital world.</p>
+<h2 style="color: #2c347f">Ecommerce Success</h2>
+<p>By using these community-building strategies, the Galaxy Kayaks EU social media following has grown by over 800% in a year. With daily web traffic increasing by 500% and sales are up across the board, a large proportion of this comes down to increased engagement with the community. However, their success doesn’t stop there.</p>
+<p>Since launching, the brand has grown significantly and Galaxy Kayaks EU is now available in Spain, France, Portugal, Italy, and Scandinavia. Galaxy Kayaks EU has seen outstanding growth and now have a annual group turnover of more than €2m. When asked about his success, Stephan says, “If you love what you do the passion will take you that extra step you need to succeed in business.”</p>
+<p><a href="https://www.prestashop.com/download/pdf/14-Galaxy-Kayaks-EU.pdf" target="_blank">Get the downloadable version of this story!</a></p>
+<hr style="width: 20%;text-align: left" />
+<p>Feeling inspired to launch your own online store? Get started with <a href="http://www.prestashop.com/">PrestaShop</a>. Want more stories like this? Check out our previous <a href="https://www.prestashop.com/blog/en/category/ecommerce-success-stories/">success stories</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/galaxy-kayaks-using-prestashop-deliver-fishing-kayaks-across-europe/">Galaxy Kayaks: Using PrestaShop to deliver fishing kayaks across Europe</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/galaxy-kayaks-using-prestashop-deliver-fishing-kayaks-across-europe/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop is launching a YouTube channel! Tips, tricks, and best practices: we’ve got it all</title>
+		<link>https://www.prestashop.com/blog/en/prestashop-launching-youtube-channel-program-will-e-commerce-tips-good-practices-tutorials/</link>
+		<comments>https://www.prestashop.com/blog/en/prestashop-launching-youtube-channel-program-will-e-commerce-tips-good-practices-tutorials/#comments</comments>
+		<pubDate>Tue, 29 Mar 2016 14:43:37 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21406</guid>
+		<description><![CDATA[<p>Today is a big day for PrestaShop and our community. After several weeks of preparation, dozens of hours of filming, numerous editing sessions and liters of coffee, PrestaShop is proud to announce the official launch of our YouTube channel! We’ve always been committed to helping merchants create and develop their online businesses. We wanted to go [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-launching-youtube-channel-program-will-e-commerce-tips-good-practices-tutorials/">PrestaShop is launching a YouTube channel! Tips, tricks, and best practices: we’ve got it all</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><span style="line-height: 1.5;">Today is a big day for PrestaShop and our community. After several weeks of preparation, dozens of hours of filming, numerous editing sessions and liters of coffee, PrestaShop is proud to announce the official launch of our </span><a style="line-height: 1.5;" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;amp;utm_medium=article&amp;amp;utm_campaign=Youtube-launch" target="_blank"><b>YouTube channel</b></a><a style="line-height: 1.5;" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;amp;utm_medium=article&amp;amp;utm_campaign=Youtube-launch">!</a></p>
+<p dir="ltr">We’ve always been committed to helping merchants create and develop their online businesses. We wanted to go even further, which is why we’re launching a YouTube channel entirely about ecommerce.</p>
+<p><span id="more-21406"></span></p>
+<p><script src="https://apis.google.com/js/platform.js"></script></p>
+<div class="g-ytsubscribe" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<hr />
+<h2>So what exactly can you expect to find?</h2>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/1xpOy6lUtFU?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p dir="ltr">Nothing less than original, <strong>exclusive content, including tips, tricks and best practices from ecommerce experts.</strong> For those always on the lookout for inspiration, tune in to hear our <strong>merchants share their experiences</strong>.</p>
+<p><span style="line-height: 1.5;">You’ll also find PrestaShop <strong>tutorials, conference replays and live YouTube sessions</strong> to assist you in creating, managing and optimizing your ecommerce site.</span></p>
+<p dir="ltr">Subscribe to our <a href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;amp;utm_medium=article&amp;amp;utm_campaign=Youtube-launch" target="_blank">channel</a> today so you don’t miss out on anything. Get ready to get the most out of your ecommerce project!</p>
+<p style="text-align: center;"> <a class="btn" style="background-color: #cd201f; border: 1px solid #b31217; border-bottom: 3px solid #b31217; margin: 20px 0 0; color: #fff;" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=Youtube-launch" target="_blank"><i class="fa fa-youtube-play"></i>   Subscribe</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-launching-youtube-channel-program-will-e-commerce-tips-good-practices-tutorials/">PrestaShop is launching a YouTube channel! Tips, tricks, and best practices: we’ve got it all</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/prestashop-launching-youtube-channel-program-will-e-commerce-tips-good-practices-tutorials/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
 		<title>Meet 40 exceptional PrestaShop contributors</title>
 		<link>https://www.prestashop.com/blog/en/meet-40-exceptional-prestashop-contributors/</link>
 		<comments>https://www.prestashop.com/blog/en/meet-40-exceptional-prestashop-contributors/#comments</comments>
@@ -133,7 +309,7 @@ translates the Documentation into Dutch</a></strong></p>
 <p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/meet-40-exceptional-prestashop-contributors/">Meet 40 exceptional PrestaShop contributors</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/en/meet-40-exceptional-prestashop-contributors/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+		<slash:comments>3</slash:comments>
 		</item>
 		<item>
 		<title>Celebrating a Major Community Milestone: #WeAre1Million!</title>
@@ -194,7 +370,7 @@ Each country is dominated by local e-commerce players: in France, this is Cdisco
 <p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/increase-sales-selling-us-based-jet-marketplace/">Increase sales by selling on US-based Jet Marketplace</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/en/increase-sales-selling-us-based-jet-marketplace/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>4 simple steps to optimize your online shop’s performance</title>
@@ -325,280 +501,6 @@ Until now, most channels have been used in tandem, but with separate catalogs. <
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/en/pim-go-faster-managing-product-data/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>3 ways to personalize the customer journey and increase online sales</title>
-		<link>https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/</link>
-		<comments>https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/#comments</comments>
-		<pubDate>Mon, 14 Mar 2016 08:55:59 +0000</pubDate>
-		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
-				<category><![CDATA[Ecommerce Tips and Advice]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21296</guid>
-		<description><![CDATA[<p>75% of consumers say they like it when brands personalize the shopping experience, with 54% going as far as to say that they would consider ending their relationship with a retailer if they weren’t given tailored content and offers. Personalization, then, is clearly a consumer-led trend with a bright future. And with 94% of companies [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/">3 ways to personalize the customer journey and increase online sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p><strong>75%</strong> of consumers say they like it when brands personalize the shopping experience, with <strong>54%</strong> going as far as to say that they would consider ending their relationship with a retailer if they weren’t given tailored content and offers. Personalization, then, is clearly a consumer-led trend with a bright future. And with 94% of companies agreeing it “is critical to current and future success” brands seem to understand its importance. But they while they may want to heed the call, do they know how to do it well?<br />
-<span id="more-21296"></span><br />
-According to analyst firm Gartner, no, they do not. In a recent report they stated that “confusion abounds in the marketplace as to what constitutes personalization”- alarming, considering the potential this trend has to change the ecommerce world.</p>
-<p>So, what is personalization? And how can it be applied to your PrestaShop store to make real and important long-term improvements to your business? </p>
-<p>Personalization, at its most basic level, is the delivery of tailored content and experiences across every point of the customer journey. In other words, the right content, for the right person, at the right time. </p>
-<p>When done right, a long-term strategy aimed at increasing customer lifetime value (CLTV) can yield increases in conversion, average order value, customer retention and overall revenue. The most sophisticated personalization solutions are automated, easy to setup, and simple to optimize and maintain. Despite their relative simplicity, they should be considered a long-term tool to improve your KPIs and customer satisfaction, not a quick fix. Why? Because at the very core personalization is about identifying and forming relationships between customer behavior and product details to be able to determine what a customer is will like and purchase. The more items and traffic your store has, the faster and stronger these relationships will be formed.  </p>
-<p>So, you have the traffic, the items and the desire to improve your KPIs. What now? Let’s look at the three levels of personalization and how, in real terms, they can be applied to the customer journey&#8230; </p>
-<h4 style="color:#ce0587">Collaborative filtering:</h4>
-<p><em>Tailoring the shopping journey according to crowd logic &#8211; for example, best sellers.</em></p>
-<p>This type of personalization relies on the assumption that people follow a crowd mentality, led by societal norms, and reinforced by the approval of their peers. It includes the highlighting of ‘best-seller’ and ‘trending’ items, something done not only to give precedence to items most likely to convert, but also to reassure customers that their buying decisions are approved by general consensus.</p>
-<h4 style="color:#ce0587">Segmentation:</h4>
-<p><em>Targeting individuals belonging to a larger group defined by shared traits- for example, demographic, geo-location or device type.</em></p>
-<p>This can include simple changes, such as presetting your site’s language configuration for IP addresses from a certain country, or it may be a logic employed according to more complicated, automated, and algorithmic change. For example, automatically editing the content of an ad to contain a certain style of female clothing for a certain age of female audience. While this category of personalization isn’t truly individualized, it is targeted.</p>
-<h4 style="color:#ce0587">One-to-one personalization:</h4>
-<p><em>Tailoring the ecommerce experience to individual shoppers, and what purists would state to be the true meaning of personalization- for example, “Recommended for you”.</em></p>
-<p>This can be done in real-time according to immediate behavioral changes or based on individualized customer profiles, built up over time using historical data. When profiling a customer, information may be collected across hundreds of data points from several sources, including location, onsite and offsite behavior, and interaction with emails. Information collected can include interests, context, and even where they are in the buying cycle.</p>
-<p>Personalization is one trend that can be relevant at every part of the sales funnel &#8211; including customer acquisition, conversion, retention, and finally, delight. The following is an example of a truly personalized journey, an example of what would happen, were you to implement the most personalization strategies. </p>
-<h2 style="color:#ce0587">Personalization to drive qualified traffic to your store:</h2>
-<p>This primarily involves personalized product-level displays or social adverts. These can either be targeted at specific audiences or aimed at the individual through retargeting. In terms of effectiveness, personalized display ads have a CTR 10x higher than traditional display ads, with the average ROI of Nosto Personalized Facebook Ads clocking in at 36x. </p>
-<p><strong>Example:</strong></p>
-<p><img src="https://www.prestashop.com/blog/en/files/2016/03/dealer-de-coque.png" alt="dealer-de-coque" width="498" height="393" class="aligncenter size-full wp-image-21300" /></p>
-<p><a href="http://dealerdecoque.fr/en/" target="_blank">Dealer de Coque</a> set out to tempt new customers away from their Facebook conversation and to the online store by using <a href="http://www.nosto.com/features/facebook-ads/" target="_blank">personalized Facebook adverts</a> to highlight real-time trending items. These ‘Best Seller’ product-level ads are automatically updated on a regular basis to show the most popular items in the store, and therefore represent items that are most likely to convert. Ads are populated based on real-time user behavior, as well as stock levels – meaning an out-of-stock product is never shown. The highlighting of real-time trending items in this type of prospecting ad has been shown to produce a 13x higher CTR.</p>
-<h2 style="color:#ce0587">Personalization to convert:</h2>
-<p><em>Automated onsite product recommendations that allow customers a smoother, quicker and tailored journey through your store.</em></p>
-<p>According to Infosys, 86% of people say personalization plays a role in their buying decisions, with customers who clicked on personalization elements 125% more likely to buy.</p>
-<p>Additionally, you may use pop-ups to deliver time-limited special offers, and one-time discount targeted according to behaviour or customer type. These type of pop-ups have seen a 55% average increase in conversion for first time visitors.</p>
-<p><strong>Example:</strong></p>
-<p><img src="https://www.prestashop.com/blog/en/files/2016/03/planetfitness-714x1024.png" alt="planetfitness" width="500" class="aligncenter size-large wp-image-21299" /></p>
-<p><a href="http://www.planetfitness.com/" target="_blank">Planet Fitness</a> needed a way to offer a highly personalized service while dealing with increased customer demand. With a wide selection of complementary products, it was also important that each customer be able to find exactly what they were looking for, while being exposed to the product range. Using on-site personalization, the company was able to deliver highly-targeted product recommendations based on the brands and categories their customers love, as well as individual shopping behavior. By delivering the most relevant customer experience to each visitor these type of recommendations have been shown to increase conversion by up tp 11%.</p>
-<h2 style="color:#ce0587">Personalization to retain customers &amp; create promoters:</h2>
-<p><em>Dynamically tailor newsletter content to be unique to each recipient using dynamically editable copy or images, or by including product-level recommendations.</em></p>
-<p>Personalization within emails has been shown to improve click-through rates by 14%.</p>
-<p><strong>Example:</strong></p>
-<p><img src="https://www.prestashop.com/blog/en/files/2016/03/mylittlesquare-573x1024.png" alt="mylittlesquare" width="300" class="aligncenter size-large wp-image-21297" /></p>
-<p>Using <a href="http://addons.prestashop.com/en/remarketing-shopping-cart-abandonment/18349-nostotagging.html" target="_blank">personalized abandoned cart emails</a>, <a href="http://www.mylittlesquare.com/" target="_blank">My Little Square</a> have been able to promote the right products, to the right audience, at the right time &#8211; allowing My Little Square to retain otherwise lost customers. </p>
-<p>Email marketing that uses automated offers based on individual user behavior, rather from static product recommendations, has been shown to produce click-through rates 10x higher than the industry standard.</p>
-<p>So there you have it: making the shopping experience easier, smoother, more personal and more enjoyable results in happier customers. And ultimately, happy customers buy more, more often and are more loyal. Personalization will help increase conversion rates, average order values and CLTV- which are key metrics that determine the success of your business.If you improve your customer&#8217;s experience at every stage of the sales funnel, you will automatically improve the metrics associated with each of those stages.</p>
-<p>To optimize the traffic you have on your site and enjoy the benefits of personalization start your 14-day trial with Nosto <a href="http://addons.prestashop.com/en/remarketing-shopping-cart-abandonment/18349-nostotagging.html" target="_blank">here</a>. </p>
-<p><em>Sources: <a href="http://www.aberdeen.com/research/4904/ra-email-marketing/content.aspx" target="_blank">Aberdeen Group</a>, <a href="https://www.nchannel.com/blog/retail-data-ecommerce-statistics/" target="_blank">NChannel blog</a>, <a href="http://www.etailcore.com/blog/personalisation-is-critical/" target="_blank">etailcore</a>, <a href="http://www.getelastic.com/display-retargeting-are-personalized-ads-better-than-generic/" target="_blank">getelastic</a>, <a href="http://www.gigya.com/blog/5-stats-that-prove-businesses-must-personalize-to-win-customers/" target="_blank">gigya</a>.</em></p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/">3 ways to personalize the customer journey and increase online sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>3 Spring Cleaning Tips for Your Ecommerce Store: Legal Edition</title>
-		<link>https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/</link>
-		<comments>https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/#comments</comments>
-		<pubDate>Thu, 10 Mar 2016 10:14:21 +0000</pubDate>
-		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
-				<category><![CDATA[Ecommerce Tips and Advice]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21282</guid>
-		<description><![CDATA[<p>Today, Leah Hamilton from Terms Feed explains how to give your site a little “spring cleaning” to ensure optimum functionality and legal compliance, year-round. Keeping your ecommerce store fresh and up-to-date is important to ensure that it functions well, meets customer needs, and maintains any legal obligations that you may have (such as intellectual property [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/">3 Spring Cleaning Tips for Your Ecommerce Store: Legal Edition</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p><em>Today, Leah Hamilton from Terms Feed explains how to give your site a little “spring cleaning” to ensure optimum functionality and legal compliance, year-round.</em></p>
-<p>Keeping your ecommerce store fresh and up-to-date is important to ensure that it functions well, meets customer needs, and maintains any legal obligations that you may have (such as intellectual property protection and privacy rules). By examining your ecommerce store up close once a year, you can avoid unpleasant surprises later on.</p>
-<p>We’ll take a look at 3 “spring beginnings” you should apply to your ecommerce store to keep your business in top legal condition. First we’ll look at protecting IP, as well as product photos; next we’ll examine your Privacy Policy and some things to note about leveraging old data; finally, we’ll describe some tips for making sure you’re not in breach of anti-spam laws with any marketing emails you may be sending.</p>
-<p><span id="more-21282"></span></p>
-<h2 style="color: #494285">Updating Product Photos and Protecting IP</h2>
-<p>Refreshing <a href="https://www.prestashop.com/blog/en/improve-product-photos-online-store-the-5-mistakes-you-dont-want-commit/">product photos</a> is something that you need to do at least once a year, and even more frequently if your stock changes often.</p>
-<h4 style="color: #d80065">False Advertising</h4>
-<p>By providing <a href="http://www.efulfillmentservice.com/2012/03/ecommerce-tip-of-the-week-use-great-photos/" target="_blank">accurate, up-to-date product photos</a>, you reduce the likelihood of items being returned for not meeting the accompanying written description. Even better, you’ll avoid legal liability for misleading or false advertising. For example, take a look at these product photo comparisons:</p>
-<p><img class="aligncenter size-full wp-image-21327" alt="Dress Overexposed" src="https://www.prestashop.com/blog/en/files/2016/03/Dress-Overexposed.jpg" width="900" height="435" /></p>
-<p>In this image you can see that using flash has made the first photo look over-exposed and unappealing. The second photo looks softer and nicer, like a mug you would actually want to drink from!</p>
-<p><img class="aligncenter size-full wp-image-21285" alt="img01" src="https://www.prestashop.com/blog/en/files/2016/03/img01.jpg" width="1024" height="768" /></p>
-<p>These images show us how the same product can be presented in wildly different ways, depending on the photography. The first image is blurry, has awkward shadows, is off-kilter, and doesn’t look particularly mouth watering. The second image looks appealing: the lighting is good and the background has been digitally altered.</p>
-<p>The above images are good examples of photography can enhance a product’s desirability. But when this is taken too far, you risk crossing the line into false advertising through misleading imagery. While unfortunately a common occurrence, this practice is unacceptable with regard to advertising standards. We see it most often in relation to <a href="http://izismile.com/2009/04/27/fast-food_products_on_ads_and_in_real_life_14_pics.html" target="_blank">fast food advertisements</a> (and the often-disappointing real food). Take a look at this example:</p>
-<p><img class="aligncenter size-full wp-image-21286" alt="img02" src="https://www.prestashop.com/blog/en/files/2016/03/img02.jpg" width="640" height="256" /></p>
-<p>You can protect yourself from these issues by carefully <a href="https://www.prestashop.com/blog/en/diy-ecommerce-guide-to-gorgeous-product-photography/">taking your own product photos</a> or using a professional photographer to do so.</p>
-<h4 style="color: #d80065">Protecting Your IP</h4>
-<p>Once you have <a href="https://www.prestashop.com/blog/en/make-the-most-of-your-product-images-with-prestashop/">created new product photos</a> (whether on your own or with the help of a professional), you need to ensure that you protect your own intellectual property in these images. The type of intellectual property protection we’re referring to here is copyright.</p>
-<p>Copyright protects your work from being copied or used by other people. Typically, a work must meet minimal standards of originality in order to qualify for copyright, and the copyright expires after a set period of time (some jurisdictions may allow this to be extended).</p>
-<p>Different countries use different tests to determine when copyright “attaches” to a work, although generally the requirements are low. For example, in the UK, &#8220;skill, labour, and judgment&#8221; must have been put into the original work for it to have copyright protection. In every country that has adopted the Berne Convention standards, <a href="https://www.gov.uk/copyright" target="_blank">copyright is automatic</a>, unless the jurisdiction also provides for a system of registration within that country. In that case, registration may be necessary to prove in court that you have a valid copyright, even though you might already have a valid (automatic) copyright.</p>
-<h2 style="color: #494285">Leveraging Data and Your Privacy Policy</h2>
-<p>Remember to take a look at what data you are still leveraging and using from the previous year. The first thing to do is examine whether it is still relevant and up to date.</p>
-<p>Next, look at:</p>
-<ul style="padding-left: 30px">
-<li>who has access to the data within your organisation?</li>
-<li>do those people need to have access to that data?</li>
-<li>is the data still relevant to your purpose for collecting it?</li>
-<li>are your previous conclusions (from analysing the data) still relevant?</li>
-<li>are you still using the data in the best way for the current market?</li>
-<li>do you need to re-analyse the data to pull out new trends to create new business strategies?</li>
-</ul>
-<p>This is also a good opportunity to refresh your Privacy Policy. We’ve examined Privacy Policies at PrestaShop before, in two parts. The <a href="https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-1/">first part</a> examined what a Privacy Policy is, and how you can comply with laws in the US and EU. The <a href="https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-2/">second part</a> looked at displaying your Privacy Policy, and keeping it secure.</p>
-<p>If you’re updating your Privacy Policy to comply with those rules, you’ll now need to know how to post an update to your Privacy Policy on your ecommerce store to ensure customers are legally bound by your new version. Your updates must be visible and accessible, and your customers must be informed that an update has been made.</p>
-<p>One good way to do this is to send out an email to customers who have signed up, saying your terms have been updated. Here’s an example from <a href="https://bitly.com/" target="_blank">Bitly</a>:</p>
-<p><img class="aligncenter size-full wp-image-21287" alt="img03" src="https://www.prestashop.com/blog/en/files/2016/03/img03.jpg" width="610" height="929" /></p>
-<p>You can see that the message is clear, sets out the changes in an easy-to-read form that customers can understand, and also includes a link to the new Privacy Policy so customers can read it.</p>
-<p>Another way is to display a link on your website or blog. Take a look at this example from <a href="http://www.swcredit.com.au/blog-blog-2014-our-privacy-policy-has-changed.html" target="_blank">Southwest Credit</a>:</p>
-<p><img class="aligncenter size-full wp-image-21288" alt="img04" src="https://www.prestashop.com/blog/en/files/2016/03/img04.jpg" width="997" height="352" /></p>
-<p>The key thing to remember here (as established in the legal case of <a href="http://blog.ericgoldman.org/archives/2010/11/another_ruling.htm" target="_blank">Roling v. E*Trade</a>) is that it’s not enough to just upload a copy of the new terms to your website &#8211; you must tell your users that the document has changed or been updated.</p>
-<h2 style="color: #494285">Anti-Spam Compliance and Email Marketing</h2>
-<p>Finally, make sure you update all of your email templates and segment your marketing lists. Email templates can all-too-often be left behind.</p>
-<h4 style="color: #d80065">Email Templates and Anti-Spam Law</h4>
-<p>Updating your email templates allows you to ensure compliance with anti-spam legislation, such as CAN-SPAM in the US, the Privacy and Electronic Communications (EC Directive) Regulations 2003 in the UK, and the Privacy and Electronic Communication Directive in the EU. These laws cover what you need to do when emailing customers or potential customers to ensure that you are not sending unsolicited or misleading messages. We’ve covered this at PrestaShop before, in our holiday-themed article on anti-spam laws. Take a look at some of the key points <a href="https://www.prestashop.com/blog/en/anti-spam-time-season/">here</a>.</p>
-<p>Remember that one of the most important steps towards compliance you can take when examining your email templates is to check whether they all include an unsubscribe link for any marketing messages that you send out. Another key feature your email templates need is the ability to customize aspects to ensure message accuracy. For example, make sure it is clear to those using the templates that they should change subject headers to reflect the content of the message.</p>
-<h4 style="color: #d80065">Segmenting Marketing Lists</h4>
-<p><a href="http://blog.hubspot.com/blog/tabid/6307/bid/32848/Why-List-Segmentation-Matters-in-Email-Marketing.aspx" target="_blank"> Segmenting marketing lists</a> is important for high quality marketing, as it allows you to exercise a more targeted email strategy that is less likely to be viewed as spam.</p>
-<p>There are several <a href="http://smallbiztrends.com/2015/12/segmenting-your-email-lists.html" target="_blank">different ways</a> to segment your customers. For example, you can look at natural groups such as sex, location, or age, or examine trends such as groups of people that have the same spending patterns. The important thing to keep in mind when determining segmentation is that you are not just splitting your customers into groups for the sake of it: remember that the purpose is to segment your customers into categories that make sense in terms of what affects buying behaviour. There’s no point splitting your customers into men and women if your data shows that their buying behaviour for your product is the same.</p>
-<p>The primary benefit of customer segmentation is that it allows you to pinpoint which groups are the most and least profitable so you can create targeted marketing campaigns for each of them. This allows you to allocate business marketing resources more prudently, and in a more focused manner.</p>
-<h2 style="color: #494285">Conclusion</h2>
-<p>Re-examining your product photos, IP protection, data leveraging methods and privacy, as well as anti-spam compliance and email features can help keep your marketing messages fresh and your business practices legally compliant.</p>
-<p>Remember to take a look at these key areas every year to ensure that you don’t let something fall behind. While it may appear to be a lot of effort, the benefits are more than worth it.</p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/">3 Spring Cleaning Tips for Your Ecommerce Store: Legal Edition</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>eCommerce Virtual Staff: 10 Tips To Beef Up Productivity</title>
-		<link>https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/</link>
-		<comments>https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/#comments</comments>
-		<pubDate>Thu, 25 Feb 2016 13:30:53 +0000</pubDate>
-		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
-				<category><![CDATA[Ecommerce Tips and Advice]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21259</guid>
-		<description><![CDATA[<p>By 2017, U.S. retail ecommerce sales are expected to hit $434.2 billion, up from $225.5 billion in 2012. It’s safe to say that the pie is getting bigger. Entrepreneurs looking to get a bigger piece of that pie can’t afford to be involved in every last task: updating product descriptions, data exports, inventory management, and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/">eCommerce Virtual Staff: 10 Tips To Beef Up Productivity</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>By 2017, U.S. retail ecommerce sales are <a href="http://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/" target="_blank">expected to hit $434.2 billion</a>, up from $225.5 billion in 2012. It’s safe to say that the pie is getting bigger.</p>
-<p>Entrepreneurs looking to get a bigger piece of that pie can’t afford to be involved in every last task: updating product descriptions, data exports, inventory management, and social media are all things you need to hand off if you want to progress to the next level.</p>
-<p>Managing a virtual staff can relieve some of the day-to-day activities that suck up your time. Just don’t make the mistake of thinking your virtual assistants (VAs) don’t need to be trained and managed.</p>
-<p>Here are ten tips and tools to get the most of our your virtual staff.<br />
-<span id="more-21259"></span></p>
-<h4 style="color: #e78199">1. Know What (and How) to Delegate</h4>
-<p>Know your strengths, and know what you need your team to do. Regardless of how many ecommerce staff members you have, it pays to know where your time is best spent, and the strengths of each team member. Delegate tasks according to what needs to be done, but also to who will do them best.</p>
-<h4 style="color: #e78199">2. Foster a Culture of Teamwork and Unity</h4>
-<p>This is easy to do when everyone comes together in an office every day, but not so much when a team is spread out across the country or even the world. While it’s important to consider the time differences between geographic locations, do your best to provide a place where employees can come together as if they were at the water cooler chatting with one another. You can do this by creating a group Skype conversation, a secret Facebook group, or your own internal social network with a tool like <a href="https://podio.com/site/en" target="_blank">Podio</a>.</p>
-<p>Host virtual meetings with Skype, Google Hangouts, or another tool like <a href="http://www.gotomeeting.com/" target="_blank">GoToMeeting</a>. Timing can be difficult if you’re working on the other side of the world, so make sure recordings are available to view later for those members who couldn’t attend live.</p>
-<h4 style="color: #e78199">3. Set Up VA Access Rights</h4>
-<p>PrestaShop makes it easy <a href="http://doc.prestashop.com/display/PS16/Profile+permissions" target="_blank">to configure your store access rights</a> for each member of your team. Have an extensive catalog and need help updating it? Employee accounts allow you to control what team members can access. As your VA gains trust, you can increase their workload, and access level.</p>
-<p><img class="aligncenter size-large wp-image-21379" alt="adm012-permissions-en2-161" src="https://www.prestashop.com/blog/en/files/2016/02/adm012-permissions-en2-161-1024x482.png" width="700" height="329" /></p>
-<h4 style="color: #e78199">4. Protect Your Cloud Data</h4>
-<p>These days, everything goes on the cloud. Even Prestashop. Controlling access levels is a must-needed first step in managing your ecommerce business. But what about other cloud-based software that your VAs access on their personal devices?</p>
-<p>Microsoft SCCM can manage your virtual staff’s access levels to all of your cloud-based applications on their devices. If you’re unfamiliar with how to use a system like this for your ecommerce store, there are user friendly <a href="https://www.cbtnuggets.com/it-training/microsoft-sccm-70-243-r2" target="_blank">tutorials about Microsoft SCCM</a>. With a single management console, you can manage Macs, PCs, servers, and cloud-based mobile devices running Windows®, iOS®, or Android™, all from a central location.</p>
-<h4 style="color: #e78199">5. Have an Onboarding and Training Process</h4>
-<p>Create a series of videos to train your team on how to do the various tasks associated with the job. Have documents like W9s, contracts, non-disclosure agreements, and more, ready to go for your new hires. Consider using a platform like <a href="https://www.docusign.com/" target="_blank">DocuSign </a>to handle signing documentation digitally.</p>
-<h4 style="color: #e78199">6. Centralize Time Tracking and Payroll</h4>
-<p>With platforms like Tick, you can <a href="https://www.tickspot.com/project-budget-tracking" target="_blank">budget and track your team’s time</a>. If you’re really worried about whether your team is actually working, use a tool like <a href="https://hubstaff.com/" target="_blank">Hubstaff</a>. You can add multiple team members and projects, and handle payments from within the system, to make it easier for everyone.</p>
-<p><img class="aligncenter size-full wp-image-21266" alt="img02" src="https://www.prestashop.com/blog/en/files/2016/02/img02.png" width="490" height="290" /></p>
-<h4 style="color: #e78199">7. Offer Rewards for a Job Well Done</h4>
-<p>You may not be able to offer a full benefits package like the folks at Google or Facebook, but incentives can go a long way toward keeping your employees happy. A <a href="http://www.globoforce.com/resources/research-reports/shrmgloboforce-fall-2012-report-the-business-impact-of-employee-recognition/" target="_blank">2012 study</a> showed that 41% of companies that use peer-to-peer recognition programs have seen an increase in customer satisfaction, so it really pays to keep your employees happy. That same study also revealed an average of 23.4% lower turnover rate.</p>
-<p>Consider offering cash bonuses, gift cards, or even tangible rewards like tablets, computers, and gaming consoles to employees who are going above and beyond the call of duty to make your business better.</p>
-<h4 style="color: #e78199">8. Educate Your Team About Fraud</h4>
-<p>When it comes to <a href="https://www.prestashop.com/blog/en/the-smartest-checklists-to-manage-your-online-store/">managing your store</a>, fraud is no doubt going to rear its ugly head at some point. Your team needs to know what kinds of things to look for, and what can happen to the business as a result of fraudulent transactions. Hackers often see the tiny fish in the sea as the easier targets. If your team knows what to look for, they can help stop it in its tracks, saving you time and frustration.</p>
-<h4 style="color: #e78199">9. Be Available to Your Team</h4>
-<p>Make sure all members of your team can reach you when they need to. Being available to answer questions, or to provide additional support can help keep the lines of communication open. When your team knows they can come to you, you’ll be less likely to run into issues because they were afraid to come to you something before it became a problem.</p>
-<h4 style="color: #e78199">10. Have a Plan to Address Turnover</h4>
-<p>If you have the staff of your dreams, that’s wonderful, but you can’t count on it being that way forever. Virtual staff members, whether they work for you full or part time, may find other opportunities for growth and advancement, which means you need to be ready to replace any member of your staff at any time. You may find team members aren’t performing the way you need them to, and you can only give someone so many chances before you need to replace them.</p>
-<p>Know where to look for new workers, whether you’re hiring them as freelancers, or full fledged employees. LinkedIn is a great place to start, but you can also post ads on Craigslist, or turn to freelance marketplaces like Guru in a pinch.</p>
-<p>Managing a virtual team for any business, especially ecommerce, isn’t for the faint of heart. But, fortunately for you, even if you’re working with a small budget, there are plenty of affordable tools available to make the job easier on everyone.</p>
-<hr align="left" width="20%" />
-<p>Darren has an MBA in Internet Marketing, but hangs his hat on a decade of experience in the trenches. Check out <a href="https://selfstartr.com/" target="_blank">Selfstartr </a>to learn more about ecommerce. Follow him on <a href="https://twitter.com/DarrenDeMatas" target="_blank">Twitter </a>and <a href="https://www.linkedin.com/in/internetmarketingmba" target="_blank">LinkedIn</a>.</p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/">eCommerce Virtual Staff: 10 Tips To Beef Up Productivity</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Get started with video marketing for eCommerce</title>
-		<link>https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/</link>
-		<comments>https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/#comments</comments>
-		<pubDate>Mon, 22 Feb 2016 13:30:14 +0000</pubDate>
-		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
-				<category><![CDATA[Ecommerce Tips and Advice]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21233</guid>
-		<description><![CDATA[<p>A photo might be worth a thousand words, but a product video is worth much more in terms of engagement and conversions. 96% of consumers find video content useful when shopping online. eCommerce merchants featuring product videos on their sites report an increase in conversion rates of up to 85%. Other benefits of video for [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/">Get started with video marketing for eCommerce</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>A photo might be worth a thousand words, but a product video is worth much more in terms of engagement and conversions. <a href="http://www.reelseo.com/consumers-purchase-video/" target="_blank">96% of consumers</a> find video content useful when shopping online. eCommerce merchants featuring product videos on their sites report an increase in conversion rates of <a href="http://blog.crazyegg.com/2015/03/05/videos-boost-conversion-rates/" target="_blank">up to 85%</a>. Other <a href="http://blog.goodvid.io/5-benefits-of-having-product-videos-on-ecommerce-site?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">benefits of video for ecommerce</a> include: prolonged session duration, more site pages visited, improved conversion rates and more site traffic.</p>
-<p>Let’s take a look at some of the basic things to consider when developing a video marketing strategy for your business.<br />
-<span id="more-21233"></span></p>
-<h2 style="color:#474474">How to select the right video marketing strategy for you</h2>
-<p>Before you dive into the creative aspect of video marketing, you should evaluate what kind of video strategy works best for you. What do you expect to achieve with videos on your site? What kind of resources do you have in terms of time, money and skills? The role you envision for videos on your site and the effort you are prepared to invest in video marketing should guide your strategy. There are three main routes you can take:</p>
-<h4 style="color:#474474">1. Make your own videos</h4>
-<p>Creating your own videos is the most resource-demanding strategy, but also the most rewarding one in terms of giving a voice to your brand. If you are selling products under your own label, then making your own videos makes sense, as this strategy allows you to promote your own brand, values and vision.</p>
-<h4 style="color:#474474">2. Source videos from brands, experts and users</h4>
-<p>Not all online merchants have the drive to create their own videos, and that’s fine. If you are pressed for time and resources or simply don’t feel comfortable in front of the camera, make use of existing videos about the products and brands you sell. YouTube and other video-sharing platforms are overflowing with <a href="https://goodvid.io/video-gallery?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">videos by brands</a>, experts and users that are available for re-sharing on ecommerce sites&#8211;and, best of all, they’re free. This is a great way to test how shoppers react to videos on your site without making major commitments to video production, especially if you’ve never experimented with video marketing before.</p>
-<h4 style="color:#474474">3. Combine your own videos with curated videos</h4>
-<p>Finally, take the best of both worlds and offer your shoppers a mix of your own videos and those curated from other sources. This is a great way to diversify your video content, keep shoppers engaged, and demonstrate your product expertise.</p>
-<h2 style="color:#474474">Select the right type of videos</h2>
-<p>After you have selected the right video strategy for your business, it’s time to think about the kind of video content your shoppers will value the most. Videos should engage shoppers with interesting stories about the products and motivate them to click the “add to cart” button. Some of the best types of videos for ecommerce are:</p>
-<ul style="padding-left: 30px">
-<li><strong>Product review videos.</strong> They let shoppers know what the main features and benefits of the product are, as well as how it performs in action. These videos set expectations about a product before shoppers commit to a purchase and help prevent returns.</li>
-<li><strong>How-to tutorial videos.</strong> Instructional videos showcasing <a href="http://blog.goodvid.io/how-online-retailers-can-leverage-how-to-video-content/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">how to assemble, use and maintain products</a> are especially valuable for complex products such as consumer electronics, appliances, cosmetics and baby products.</li>
-<li><strong>Unboxing videos.</strong> Having a video which demonstrates product packaging and how it’s unwrapped helps shoppers visualize their purchases better. These videos help reduce shopper anxiety and spur interest in the product.</li>
-</ul>
-<p>When selecting videos for your site, think about the kinds of questions shoppers are likely to have about your products and let the video answer them. Remember, video should act as a virtual salesperson on your ecommerce site, so choose videos that will help tackle any uncertainties shoppers might have.</p>
-<h2 style="color:#474474">Best practices for product videos for eCommerce</h2>
-<p>When done right, videos can bring tangible improvements to engagement and conversion rates of ecommerce sites. Here are some practical tips online merchants should have in mind when developing video marketing tactics:</p>
-<ol>
-<li><strong>Get inspired.</strong> Research YouTube for videos about the products and brands you’re selling or about products in the same category. Search for videos by brands, users, experts and retailers. Take notes on the information they provide, the style and length of their videos and calls to action. Use these insights to decide what kind of videos you could make or curate for your site.</li>
-<li><strong>Start by adding videos to your most lucrative products.</strong> If you haven’t used videos on your site before, it’s a good idea to start with your best-selling products or product pages with the highest traffic. This will enable you to quickly gather data about the effects of video on engagement and conversion.</li>
-<li><strong>Bring videos closer to conversion points.</strong> If you want to track how video affects your “add-to-cart” conversion rates, then make sure you add videos directly to product pages, rather than category pages, to maximize their effect on the purchase intent.</li>
-<li><strong>Make video easy to spot.</strong> Place product videos alongside product photos and product description. This grabs shoppers’ attention right away and prompts them to engage with the content. Try to place video above the fold when possible. Avoid placing videos at the bottom of the page, as this makes it difficult for shoppers to discover them.</li>
-<li><strong>Add multiple videos to product pages.</strong> You have multiple product photos on your pages, so why not have multiple videos as well? Try a combination of different types of videos to engage shoppers. Mix up your own videos with user-generated videos, customer testimonials and product reviews to give shoppers an authentic experience. Don’t be afraid to test different <a href="http://blog.goodvid.io/5-ecommerce-video-trends-for-2016/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">video gallery</a> options to discover your winning formula.</li>
-<li><strong>Make sure videos display well on mobile.</strong> We live in a mobile world and shoppers want a seamless experience, no matter what devices they use to access your online store. Don’t forget to apply responsive design to videos as well, so shoppers can see videos in full quality when browsing your site from mobile.</li>
-</ol>
-<h2 style="color:#474474">What’s next?</h2>
-<p>Once you’ve drafted your video marketing strategy, make sure to test how well video works on your ecommerce site. Here are some of the things you should be monitoring:</p>
-<ul style="padding-left: 30px">
-<li>How do shoppers behave on pages with video versus pages without video?</li>
-<li>What percentage of shoppers actually watches video?</li>
-<li>How long do shoppers engage with video?</li>
-<li>How do videos impact session duration and the number of pages visited?</li>
-<li>What are the conversion rates on pages with video versus pages without video?</li>
-</ul>
-<p>Answering these questions and monitoring shopper behavior will help you understand which approach is right for you. Video is an excellent addition to your marketing efforts, so keep on experimenting and perfecting it. If you haven’t started with video yet, don’t miss out on the opportunity to give your shoppers a great customer experience with videos they’ll love to watch!</p>
-<h2 style="color:#474474">About the author</h2>
-<p><img class="alignleft size-full wp-image-21235" alt="miljana-mitic" src="https://www.prestashop.com/blog/en/files/2016/02/miljana-mitic.png" width="100" height="100" /></p>
-<p>Miljana Mitic is the Content Marketing Manager at <a href="https://goodvid.io/" target="_blank">Goodvidio</a>, a SaaS solution that helps online stores bring the best product videos from social media to their product pages. Miljana has a PhD in social media marketing and writes about how online stores can make the most out of product videos. She loves discovering new restaurants, reading, playing with dogs and watching YouTube haul videos.</p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/">Get started with video marketing for eCommerce</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Social Media Case Study: Take a ride with Wobybi</title>
-		<link>https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/</link>
-		<comments>https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/#comments</comments>
-		<pubDate>Fri, 12 Feb 2016 13:30:09 +0000</pubDate>
-		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
-				<category><![CDATA[Success Stories]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21230</guid>
-		<description><![CDATA[<p>Meet Wobybi, this week’s featured PrestaShop merchant. We sat down with Alvaro Basterra, the company’s founder, to learn more about how they use social media to promote their online store. Let’s find out what he has to say! Tell us about Wobybi. Wobybi is a custom bike brand based in Spain. We are specialized in [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/">Social Media Case Study: Take a ride with Wobybi</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Meet <a href="http://www.wobybi.es/" target="_blank">Wobybi</a>, this week’s featured PrestaShop merchant. We sat down with Alvaro Basterra, the company’s founder, to learn more about how they use social media to promote their online store. Let’s find out what he has to say!<br />
-<span id="more-21230"></span></p>
-<h2 style="color:#88ae01">Tell us about Wobybi.</h2>
-<p><a href="http://www.wobybi.es/" target="_blank">Wobybi</a> is a custom bike brand based in Spain. We are specialized in building one-of-a kind bikes, so our online store, which runs on PrestaShop 1.5.2, has been designed to allow every customer to design their own bike. They first pick a base model, then customize each piece in their preferred color, and finally review and confirm their order. </p>
-<h2 style="color:#88ae01">How has social media impacted your business?</h2>
-<p>Social networks are a great way to meet and connect with our community. We try to build a personal relationship with our fans. We like to encourage them to interact with us and comment, share, and send us their pictures and videos.</p>
-<p>Because we sell personalized products, interacting with our community is particularly important. We use it to provide unique, exclusive and personal service to each of our customers.</p>
-<h2 style="color:#88ae01">Which social media channels and tools do you use?</h2>
-<p><a href="https://www.facebook.com/Wobybi" target="_blank">Facebook</a> and <a href="https://www.instagram.com/wobybi/" target="_blank">Instagram</a> work well because they are very visual and enable us to showcase our product photos. We also use <a href="https://twitter.com/wobybi" target="_blank">Twitter</a>, but more as a portal for customer service and sharing information. </p>
-<p>Our favorite tools include: </p>
-<ul style="padding-left: 30px">
-<li><a href="https://hootsuite.com/" target="_blank">Hootsuite</a> to schedule publications</li>
-<li><a href="https://sumall.com/" target="_blank">SumAll</a> to receive a daily and weekly summary of notifications</li>
-<li><a href="https://mention.com/en/" target="_blank">Mention</a> to learn more about people who mention us</li>
-<li><a href="https://feedly.com/i/welcome" target="_blank">Feedly</a> to read news on our sector</li>
-<li><a href="https://bitly.com/" target="_blank">Bitly</a> to shorten URLs and monitor the number of clicks</li>
-</ul>
-<h2 style="color:#88ae01">Where do you get inspiration for social media content?</h2>
-<p>We have someone dedicated to managing all of our social media channels full time. Our posts are based on a strategy we’ve defined in our marketing plan: our goal is to create original and quality content to attract new potential customers. Ideas and inspiration can come from anywhere &#8212; Instagram, Pinterest, meetings, brainstorming. The most important thing for merchants to remember is to focus campaigns and not forget about the ultimate goal!</p>
-<h2 style="color:#88ae01">Can you share some tips with other merchants starting out on social media? </h2>
-<p>The most important thing is to establish a strategy for each social network and only focus on a couple in the beginning; there’s no use just “being there to be there.” Include top quality content tailored to your specific customer base. We use a lot of content that features GIF or videos, which suits our demographic very well. Finally, and most importantly, respond to each question and comment you receive on social media.</p>
-<hr width="20%" align="left">
-<p>Ready to launch your own social media campaign for your ecommerce business? Check out part 1 of our series with HootSuite Social Media Coach for DACH &amp; UK, Hanna Oeljeschlaeger, <a href="https://www.prestashop.com/blog/en/support-ecommerce-business-social-media/">on supporting your ecommerce business with social media</a>.</p>
-<p>Don’t own an online store yet? What are you waiting for get started to day with <a href="http://www.prestashop.com/" target="_blank">PrestaShop</a>. </p>
-<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/">Social Media Case Study: Take a ride with Wobybi</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
 </rss>

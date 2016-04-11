@@ -624,6 +624,7 @@ header .row #header_logo,
   padding-left: 15px;
   padding-right: 15px; }
 
+
 .col-xs-1,
 .col-xs-2,
 .col-xs-3,
@@ -700,8 +701,9 @@ header .row #header_logo,
   .col-sm-3 {
     width: 25%; }
 
-  .col-sm-4, header .row #header_logo {
+  .col-sm-4 {
     width: 33.33333%; }
+
 
   .col-sm-5 {
     width: 41.66667%; }
@@ -1851,7 +1853,7 @@ input[type="button"].btn-block {
   content: ""; }
 
 .dropdown {
-  position: relative; }
+  position: absolute; }
 
 .dropdown-toggle:focus {
   outline: 0; }
@@ -5742,7 +5744,7 @@ header {
     header .banner .row {
       margin: 0px; }
   header .nav {
-    background: #27aec4; }
+    background: #fff; }
     header .nav .row {
       margin: 0px; }
     header .nav nav {
@@ -6515,8 +6517,8 @@ table.table_block td {
 .block h4 {
   font: 600 18px/22px "Open Sans", sans-serif;
   color: #555454;
-  background: #f6f6f6;
-  border-top: 5px solid #333;
+  background: #dceefe;
+  border-top: 5px solid #27aec4;
   text-transform: uppercase;
   padding: 14px 5px 17px 20px;
   margin-bottom: 20px; }
@@ -7233,7 +7235,7 @@ div.star a:hover {
   background-color: #27aec4; }
   @media (min-width: 768px) {
     .footer-container {
-      background: url(../img/footer-bg.png) repeat-x #27aec4; } }
+      background: url(../img/footer-bg.png) repeat-x #fff; } }
   .footer-container .container {
     padding-bottom: 100px; }
   .footer-container #footer {
@@ -7250,10 +7252,10 @@ div.star a:hover {
     .footer-container #footer a {
       color: #777777; }
       .footer-container #footer a:hover {
-        color: #fff; }
+        color: #27aec4; }
     .footer-container #footer h4 {
       font: 600 18px/22px "Open Sans", sans-serif;
-      color: #fff;
+      color: #27aec4;
       margin: 0 0 13px 0;
       cursor: pointer; }
       @media (max-width: 767px) {
@@ -7271,7 +7273,7 @@ div.star a:hover {
           .footer-container #footer h4.active:after {
             content: "\f056"; } }
       .footer-container #footer h4 a {
-        color: #fff; }
+        color: #cc82c8; }
     .footer-container #footer ul li {
       padding-bottom: 8px; }
       .footer-container #footer ul li a {

@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '1907256ea2948a3c510-70519005',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56f8aa1825e718_82148375',
+  'unifunc' => 'content_570b4dc46cc204_03885007',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56f8aa1825e718_82148375')) {function content_56f8aa1825e718_82148375($_smarty_tpl) {?><div id="contact-link" >
+<?php if ($_valid && !is_callable('content_570b4dc46cc204_03885007')) {function content_570b4dc46cc204_03885007($_smarty_tpl) {?><div id="contact-link" >
 	<a href="http://localhost/bajubayiken/id/hubungi-kami" title="Hubungi kami">Hubungi kami</a>
 </div>
 	<span class="shop-phone">

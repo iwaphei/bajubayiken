@@ -1,8 +1,11 @@
 #search_block_top {
-  padding-top: 50px; }
+  padding-top: 89px;
+   margin-left: -15px; }
   #search_block_top #searchbox {
     float: left;
-    width: 100%; }
+    width: 700px;
+   /**/
+    /*height: 45px;*/ }
   #search_block_top .btn.button-search {
     background: #27aec4;
     display: block;

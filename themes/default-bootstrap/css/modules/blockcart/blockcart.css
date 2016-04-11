@@ -4,21 +4,23 @@
 #header .shopping_cart {
   position: relative;
   float: right;
-  padding-top: 50px; }
+  padding-top: 15px; 
+  width: 170px;
+  height: 133px; }
   #header .shopping_cart > a:first-child:after {
     content: "\f0d7";
     font-family: "FontAwesome";
     display: inline-block;
     float: right;
-    font-size: 18px;
-    color: #686666;
+    font-size: 40px;
+    color: #90b4e6;
     padding: 6px 0 0 0; }
   #header .shopping_cart > a:first-child:hover:after {
     content: "\f0d8";
     padding: 4px 0px 2px 0px; }
 
 .shopping_cart {
-  width: 270px; }
+  width: 120px; }
   @media (max-width: 480px) {
     .shopping_cart {
       padding-top: 20px; } }
@@ -28,28 +30,30 @@
       float: none;
       width: 100%; } }
   .shopping_cart > a:first-child {
-    padding: 7px 10px 14px 16px;
-    background: #27aec4;
+    padding: 3px 10px 18px 16px;
+    background: #90b4e6;
     display: block;
     font-weight: bold;
-    color: #777777;
-    text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    /*text-shadow: 1px 1px rgba(0, 0, 0, 0.2);*/
     overflow: hidden; }
     @media (min-width: 768px) and (max-width: 991px) {
       .shopping_cart > a:first-child span.ajax_cart_product_txt, .shopping_cart > a:first-child span.ajax_cart_product_txt_s {
         display: none !important; } }
     .shopping_cart > a:first-child b {
-      color: #fff;
+      color: #90b4e6;
       font: 600 18px/22px "Open Sans", sans-serif;
       padding-right: 5px; }
     .shopping_cart > a:first-child:before {
       content: "\f07a";
       font-family: "FontAwesome";
       display: inline-block;
-      font-size: 23px;
+      font-size: 50px;
       line-height: 23px;
       color: #fff;
-      padding-right: 15px; }
+      padding: 40px 0 0 43px;
+      /*padding-right: 15px;
+      padding-top: 15px;*/ }
   .shopping_cart .ajax_cart_total {
     display: none !important; }
   .shopping_cart .block_cart_expand:after, .shopping_cart .block_cart_collapse:after {
@@ -158,17 +162,18 @@
         color: #fff; }
 
 /*******************************************************************
-					Cart Block(Header) Styles
+					Cart Block(Header) Styles Pada Saat Hover Keluar Bawahnya
 ********************************************************************/
 #header .cart_block {
   position: absolute;
-  top: 95px;
+  top: 133px;
   right: 0;
   z-index: 100;
   display: none;
   height: auto;
-  background: #484848;
-  color: #fff;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  color: #333;
   width: 270px; }
   @media (max-width: 480px) {
     #header .cart_block {
@@ -177,7 +182,7 @@
     #header .cart_block {
       width: 100%; } }
   #header .cart_block a {
-    color: #fff; }
+    color: #90b4e6; }
     #header .cart_block a:hover {
       color: #9c9b9b; }
   #header .cart_block .cart_block_list .remove_link a,
@@ -189,7 +194,7 @@
     #header .cart_block .cart_block_list .ajax_cart_block_remove_link:hover {
       color: #9c9b9b; }
   #header .cart_block .price {
-    color: #fff; }
+    color: #90b4e6; }
   #header .cart_block dt {
     background: url(../../../img/cart-shadow.png) repeat-x; }
     #header .cart_block dt.first_item {
@@ -203,9 +208,9 @@
         color: #fff; }
   #header .cart_block .cart-prices {
     border: none;
-    background: url(../../../img/cart-shadow.png) repeat-x #3d3d3d; }
+    background: url(../../../img/cart-shadow.png) repeat-x #fff; }
   #header .cart_block .cart-buttons {
-    background: url(../../../img/cart-shadow.png) repeat-x #333; }
+    background: url(../../../img/cart-shadow.png) repeat-x #fff; }
 #header .block_content {
   margin-bottom: 0; }
 

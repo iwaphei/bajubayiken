@@ -11,8 +11,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '2725556ea29411561e9-12763984',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56f8aa12df94e6_12714254',
+  'unifunc' => 'content_570b4dbfadabe8_41003785',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56f8aa12df94e6_12714254')) {function content_56f8aa12df94e6_12714254($_smarty_tpl) {?><li><a data-toggle="tab" href="#blockbestsellers" class="blockbestsellers">Terlaris</a></li><?php }} ?>
+<?php if ($_valid && !is_callable('content_570b4dbfadabe8_41003785')) {function content_570b4dbfadabe8_41003785($_smarty_tpl) {?><li><a data-toggle="tab" href="#blockbestsellers" class="blockbestsellers">Terlaris</a></li><?php }} ?>
